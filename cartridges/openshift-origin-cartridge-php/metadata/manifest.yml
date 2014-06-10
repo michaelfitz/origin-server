@@ -25,7 +25,7 @@ Cartridge-Version: 0.0.17
 Compatible-Versions:
 - 0.0.15
 - 0.0.16
-Cartridge-Vendor: redhat
+Cartridge-Vendor: mike
 Categories:
 - service
 - php
